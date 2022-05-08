@@ -1,6 +1,5 @@
-Antics
-
 **URL to MP3**
+
 If you've got a song from Soundcloud or Youtube, 
 * place it's url in a .txt file (newline per entry)
 * supply an output dir
